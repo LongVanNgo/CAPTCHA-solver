@@ -1,4 +1,4 @@
-# Intelligent-Systems-Exam-2022
+# System to solve CAPTCHAs using CNN
 Code to the final exam project of 02461 intelligent systems course 
 
 Main file: CAPTCHAsolver.ipynb
